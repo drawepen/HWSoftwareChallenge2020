@@ -1,13 +1,13 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
-#include <unistd.h>///////////linux
+#include <unistd.h>
 #include<string.h>
 #include<sys/stat.h>
 #include<fcntl.h>
 #include "set"
 #include <sys/mman.h>
-#include <sys/time.h>///////////////////
+#include <sys/time.h>
 #include<sys/wait.h>
 #include <arm_neon.h>
 
