@@ -1,0 +1,3 @@
+"D:\Software_installation\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\HWSoftwareChallenge2020.dir/objects.a
+D:\Software_installation\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\HWSoftwareChallenge2020.dir/objects.a @CMakeFiles\HWSoftwareChallenge2020.dir\objects1.rsp
+D:\Software_installation\Dev-Cpp\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\HWSoftwareChallenge2020.dir/objects.a -Wl,--no-whole-archive  -o HWSoftwareChallenge2020.exe -Wl,--out-implib,libHWSoftwareChallenge2020.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HWSoftwareChallenge2020.dir\linklibs.rsp

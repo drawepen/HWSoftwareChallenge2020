@@ -1,0 +1,4 @@
+"D:\Software_installation\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\Workbench\CorCppFile\JBCL\HWSoftwareChallenge2020
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Workbench/CorCppFile/JBCL/HWSoftwareChallenge2020/cmake-build-debug

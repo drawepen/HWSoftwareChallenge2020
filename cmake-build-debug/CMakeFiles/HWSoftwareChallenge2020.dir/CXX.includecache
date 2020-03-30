@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Workbench/CorCppFile/JBCL/HWSoftwareChallenge2020/Main4.cpp
+iostream
+-
+fstream
+-
+cmath
+-
+time.h
+-
+unistd.h
+-
+string.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+set
+E:/Workbench/CorCppFile/JBCL/HWSoftwareChallenge2020/set
+
