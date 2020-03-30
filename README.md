@@ -1,6 +1,6 @@
 # 2020华为软件精英挑战赛热身赛-方案记录
 代码很乱，最后几天才改用C++，有很多方案写不完，来不及处理各种调试注释了，比赛完了也不想处理了，就这样吧。
-最后版本是 [Main8_2.cpp](https://github.com/drawepen/HWSoftwareChallenge2020/blob/master/Main8-2.cpp)---0.0306s，排名32，不算好，正式赛继续记录。
+最后版本是 [Main8_2.cpp](https://github.com/drawepen/HWSoftwareChallenge2020/blob/master/Main8-2.cpp)---0.0306s，排名32，不算理想，正式赛继续记录。
 思路：
  * -test文件应该没有符号，格式统一，可以定位跳转；
  * -train文件有未归一化数据，存在-号和>1，测试集没有，去除含-号的数据//不理想，跳过还会影响速度，最后不跳过
